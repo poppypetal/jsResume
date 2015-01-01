@@ -1,0 +1,10 @@
+Project 2 sources:
+
+
+http://piazza.com
+http://www.phpied.com/3-ways-to-define-a-javascript-class/
+http://en.wikipedia.org/wiki/JQuery
+http://www.w3schools.com/css/default.asp
+http://en.wikipedia.org/wiki/Application_programming_interface
+https://github.com/poppypetal/frontend-nanodegree-resume
+http://www.w3schools.com/js/js_strings.asp
